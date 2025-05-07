@@ -7,6 +7,5 @@ I'm a 3rd Year Information System Student at University of Indonesia 🎓
 - My interests lie in Product Development and Data Analytics 📈  
 - Ask me anything! 😄
 
-## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/fathirahma-alyssa/)
-- Email: pristantialyssa@gmail.com ✉️
+## Please don't hesitate to get in touch 😄🤝
+- Find me on [LinkedIn](https://www.linkedin.com/in/fathirahma-alyssa/) and [Email](pristantialyssa@gmail.com)
