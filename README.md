@@ -8,9 +8,6 @@ I'm a 3rd Year Information System Student at University of Indonesia 🎓
 - Ask me anything! 😄
 
 ## Technologies I've been using
-
-| Technology                                                                 | Technology                                                                 |
-|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"> Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"> JS |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="30"> Excel | <img src="https://jupyter.org/assets/nav_logo.svg" width="30"> Jupyter Notebook |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30"> Next.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30"> Django |
