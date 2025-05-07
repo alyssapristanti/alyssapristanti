@@ -8,7 +8,7 @@ I'm a 3rd Year Information System Student at University of Indonesia 🎓
 - Ask me anything! 😄
   
 ## Tech Stack ✨
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssapristanti&layout=compact&langs_count=6&theme=cottoncandy&hide_border=true&card_width=400" alt="Alyssa's Tech Stack">
 </p>
 
