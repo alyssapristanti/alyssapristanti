@@ -1,9 +1,12 @@
-# Hi there! 👋 I'm Alyssa!
+# Hi! I'm Alyssa 👋
 
-3rd Year Information System Student at University of Indonesia 🎓
+I'm a 3rd Year Information System Student at University of Indonesia 🎓
 
 ## About Me
-- I'm currently exploring Python and Dart 🐍
-- My interests lie in web development and mobile apps 🌐📱
+- I'm currently exploring Python, SQL, and R 🐍📊  
+- My interests lie in Product Development and Data Analytics 📈  
 - Ask me anything! 😄
-- Email me at: alyssapristanti@gmail.com ✉️
+
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/fathirahma-alyssa/)
+- Email: pristantialyssa@gmail.com ✉️
