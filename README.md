@@ -3,7 +3,7 @@
 I'm a 3rd Year Information System Student at University of Indonesia 🎓
 
 ## About Me
-- I'm currently exploring Python, SQL, and R 🐍📊  
+- I'm currently exploring Python and SQL 🐍📊  
 - My interests lie in Product Development and Data Analytics 📈  
 - Ask me anything! 😄
   
